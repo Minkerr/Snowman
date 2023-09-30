@@ -1,0 +1,5 @@
+Project Structure - Modules - Dependencies - "+" - Add JAR:
+jogl-all.jar
+gluegen-rt.jar
+gluegen-rt-natives-windows-amd64.jar
+jogl-all-natives-windows-amd64.jar
